@@ -1,0 +1,21 @@
+.padre {
+  margin-bottom: 2em;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.asdg {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.contenedor-temp {
+  display: flex;
+  justify-content: center;
+}
+.temp{
+    padding: 1em 1.39em;
+    display: flex;
+    align-items: center;
+}
+
