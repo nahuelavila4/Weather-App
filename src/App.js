@@ -6,7 +6,7 @@ function App() {
       <div className="elementos">
         <div className="titulo">
           <h1>Aplicacion de clima</h1>
-          <p>Por Nahuel Avila</p>
+          <h4>Por Nahuel Avila</h4>
         </div>
         <WeatherApp />
       </div>

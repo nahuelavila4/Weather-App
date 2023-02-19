@@ -9,13 +9,24 @@
   justify-content: center;
   flex-direction: column;
 }
+.estado {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+.estado > * {
+  margin: 0 1.5em;
+}
+.cond-text {
+  display: flex;
+  align-items: center;
+}
 .contenedor-temp {
   display: flex;
   justify-content: center;
 }
-.temp{
-    padding: 1em 1.39em;
-    display: flex;
-    align-items: center;
+.temp {
+  padding: 1em 1.39em;
+  display: flex;
+  align-items: center;
 }
-
